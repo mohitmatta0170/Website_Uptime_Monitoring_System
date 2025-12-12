@@ -1,0 +1,10 @@
+
+{
+  "name": "assessment/uptime-monitor",
+  "type": "project",
+  "require": {
+    "php": "^8.2",
+    "laravel/framework": "^10.0",
+    "guzzlehttp/guzzle": "^7.0"
+  }
+}
